@@ -1,4 +1,74 @@
-### Hello there 👋
+# Hello there 👋
+
+You are quite strange to visit this page. How can I help you?
+
+[dots](https://github.com/distenz/dotfiles)? PROVIDED AS IS, no guarantees etc.
+It is for me to run my stuff, not to be useful to you nor to beconsumed by you.
+
+Anyways...
+
+## things to do
+
+Might be nice to jump on 
+[Advent of Code 23](https://adventofcode.com/2023/day/1)?
+I should do it but dec already started, maybe later in 24. I need to do todos 
+first. If I want to learn zig or rust or go, that could be good.
+
+### UWU todos. w/e that means. ah. got it. dev from first principles?
+[x] cpu renderer [repo](https://github.com/distenz/renderer)
+[] sometyhing trivial that runs through vulkan or opengl
+[] project that runs a closed system, probably a mini globe, with some stupid 
+gene model powered agents.
+[] possible branch off to a game. highly unlikely. possibility for self 
+employment
+[] something to boot into. bios or preferably UEFI
+[] check out [libreboot](https://libreboot.org)?
+[] check out how to do the same on ARM
+[] check whats up with opensource AMD and intel SoCs or any open source gpu 
+drivers?
+[] if it makes any sense - probably not - write a driver for some gpu?
+[] 
+
+### PDE (as in Personalized Development Environment) todos
+nvim
+[x] fix fugitive = on obelisk. E21
+[] diagnostic text fix. the inline runs off screen. auto popup no good, cuz it
+covers info popup.
+[] auto set line numbers on netrw
+[] telescope C fzf
+[] fix diagnostic errors since gruvbox/catppuccin udate on obelisk
+[] fzf with file constraints eg. extensions. now I have to separately grep
+[] fix telescpe preview freeze on long lines. it might not be telescope but 
+lsp.
+[] uxterm alt-backspace bind
+[] can't I run the latency measuring tool on sway now? I fixed the screenshare
+or did the tool not support sway in general?
+[] switch from packer. I do not like it that much. mb look at lazy?
+[] telescope is a pain in general, I do not like it. need alternative for 
+fzf, content grep, buffer list display/nav. alternatively check its man more 
+deeply. maybe all my problems are adressable.
+    - I cant toggle preview, can only go by 1 file at a time and it freezes 
+    some entries. 
+    - Deleting in the input should allow ctrl-u. feels bad to edit it vim 
+    style because I exit insert mode by Ctrl-c and it closes the popup
+    - I want to exit with esc, but it only leaves insert mode and I have to 
+    press it twice which is 4 keypress for me god please have mercy on my soul
+    sometimes telescope absolutely frustrates me
+
+### DE (as in Desktop Environment) todos 
+[] fix `nm` vpn issue at random intervals. DNS over VPN stops being reachable?
+[] fix mic over bluetooth headst on dell
+[] fix clamshell sway sys binds, broke after the duplicate ubuntu oem drivers
+[] fix sway screenshare on dell to work with windows. curr. only screen works
+[] fix power profile/fans on obelisk. prob also needs repaste.
+[] find low latency foot replacement to wayland
+[] check out primeagen's tmux fzf manual thingy? frontend masters dev. prod. 
+course.
+[] maybe? do some custom bar&widget stuff with `eew` or smth like that. it 
+seems not that functional atm. it has to provide value for dev. DE is not 
+relevant for me, and I do not want to run customized DEs for others.
+[] maybe do a debian+gnome on monolith? lets wait for feedback on current. it 
+is supported for another .5y
 
 <!--
 **distenz/distenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
