@@ -30,12 +30,11 @@ employment
 - [ ] check whats up with opensource AMD and intel SoCs or any open source gpu 
 drivers?
 - [ ] if it makes any sense - probably not - write a driver for some gpu?
-- [ ] 
 
 ### PDE (as in Personalized Development Environment) todos
 #### nvim
-- [x] fix fugitive = on obelisk. E21. ok so my `=` on the ferris got 
-CHANGED or smth. the other keyboards `=` works just fine, also `futitive_>` 
+- [x] fix fugitive `=` on obelisk. ok, so my `=` on the ferris got 
+changed or smth. the other keyboard's `=` works just fine, also `fugitive_>` 
 works just fine. smh.
 - [ ] *fix the `=` char on the ferris*
 - [ ] *fix the `Super+Shift+3(layer1+e)` shortcut on the ferris*
@@ -73,6 +72,7 @@ reachable?
 - [ ] fix power profile/fans on obelisk. prob also needs repaste.
 - [ ] find low latency foot replacement to wayland 
     - fix nvim cursor issues in MLTeerm is an option too
+- [ ] set i3 bar active workspace bg color 
 - [ ] check out primeagen's tmux fzf manual thingy? frontend masters dev. prod. 
 course.
 - [ ] maybe? do some custom bar&widget stuff with `eew` or smth like that. it 
