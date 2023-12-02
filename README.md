@@ -34,9 +34,11 @@ drivers?
 
 ### PDE (as in Personalized Development Environment) todos
 #### nvim
-- [x] fix fugitive = on obelisk. E21
-- [ ] diagnostic text fix. the inline runs off screen. auto popup no good, cuz it
-covers info popup.
+- [ ] *fix fugitive = on obelisk. E21*
+- [x] diagnostic text fix. the inline runs off screen. auto popup no good, cuz 
+it covers info popup. *I needed to reset the local state and reinstall all*
+- [x] fix missing packer. *forgot to require it on init. that is why my auto 
+install script did not work as well. _gulp_*
 - [ ] auto set line numbers on netrw
 - [ ] telescope C fzf
 - [ ] fix diagnostic errors since gruvbox/catppuccin udate on obelisk
@@ -44,8 +46,8 @@ covers info popup.
 - [ ] fix telescpe preview freeze on long lines. it might not be telescope but 
 lsp.
 - [ ] uxterm alt-backspace bind
-- [ ] can't I run the latency measuring tool on sway now? I fixed the screenshare
-or did the tool not support sway in general?
+- [ ] can't I run the latency measuring tool on sway now? I fixed the 
+screenshare or did the tool not support sway in general?
 - [ ] switch from packer. I do not like it that much. mb look at lazy?
 - [ ] telescope is a pain in general, I do not like it. need alternative for 
 fzf, content grep, buffer list display/nav. alternatively check its man more 
@@ -59,19 +61,23 @@ deeply. maybe all my problems are adressable.
     sometimes telescope absolutely frustrates me
 
 ### DE (as in Desktop Environment) todos 
-- [ ] fix `nm` vpn issue at random intervals. DNS over VPN stops being reachable?
+- [ ] fix `nm` vpn issue at random intervals. DNS over VPN stops being 
+reachable?
 - [ ] fix mic over bluetooth headst on dell
 - [ ] fix clamshell sway sys binds, broke after the duplicate ubuntu oem drivers
 - [ ] fix sway screenshare on dell to work with windows. curr. only screen works
 - [ ] fix power profile/fans on obelisk. prob also needs repaste.
-- [ ] find low latency foot replacement to wayland
+- [ ] find low latency foot replacement to wayland 
+    - fix nvim cursor issues in MLTeerm is an option too
 - [ ] check out primeagen's tmux fzf manual thingy? frontend masters dev. prod. 
 course.
 - [ ] maybe? do some custom bar&widget stuff with `eew` or smth like that. it 
-seems not that functional atm. it has to provide value for dev. DE is not 
-relevant for me, and I do not want to run customized DEs for others.
+seems not that functional atm. it has to provide value for dev. Do not want to 
+run custom DE on monolith, so has to be useful for dell or obelisk
 - [ ] maybe do a debian+gnome on monolith? lets wait for feedback on current. it 
 is supported for another .5y
+- [ ] maybe do an immutable os eg. VanillaOS if monolith bricks.
+- [ ] add flatpak to monolith if need arise?
 
 <!--
 **distenz/distenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
