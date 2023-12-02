@@ -34,7 +34,11 @@ drivers?
 
 ### PDE (as in Personalized Development Environment) todos
 #### nvim
-- [ ] *fix fugitive = on obelisk. E21*
+- [x] fix fugitive = on obelisk. E21. ok so my `=` on the ferris got 
+- [ ] *fix the `=` char on the ferris*
+- [ ] *fix the `Super+Shift+3(layer1+e)` shortcut on the ferris*
+CHANGED or smth. the other keyboards `=` works just fine, also `futitive_>` 
+works just fine. smh.
 - [x] diagnostic text fix. the inline runs off screen. auto popup no good, cuz 
 it covers info popup. *I needed to reset the local state and reinstall all*
 - [x] fix missing packer. *forgot to require it on init. that is why my auto 
