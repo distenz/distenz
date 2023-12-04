@@ -40,13 +40,14 @@ changed or smth. the other keyboard's `=` works just fine, also `fugitive_>`
 works just fine. smh.
 - [ ] *fix the `=` char on the ferris*
 - [ ] *fix the `Super+Shift+3(layer1+e)` shortcut on the ferris*
-- [x] diagnostic text fix. the inline runs off screen. auto popup no good, cuz 
-it covers info popup. *I needed to reset the local state and reinstall all*
+- [ ] diagnostic text fix. the inline runs off screen. auto popup no good, cuz 
+it covers info popup. 
 - [x] fix missing packer. *forgot to require it on init. that is why my auto 
 install script did not work as well. _gulp_*
 - [ ] auto set line numbers on netrw
 - [ ] telescope C fzf
-- [ ] fix diagnostic errors since gruvbox/catppuccin udate on obelisk
+- [x] fix diagnostic errors since gruvbox/catppuccin udate on obelisk *I needed 
+to reset the local state and reinstall all*
 - [ ] fzf with file constraints eg. extensions. now I have to separately grep
 - [ ] fix telescpe preview freeze on long lines. it might not be telescope but 
 lsp.
