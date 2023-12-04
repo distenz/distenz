@@ -69,10 +69,10 @@ deeply. maybe all my problems are adressable.
 - [ ] fix `nm` vpn issue at random intervals. DNS over VPN stops being 
 reachable?
 - [x] fix mic over bluetooth headst on dell. *okey so I learned that bluetooth 
-headsets have different audio profiles and I was using mine in `A2DP Sink` mode.
-If I want to access the device sink to use as my mic, I have to switch to `HFP`.
-Now I understand why did my headsets audio quality go bad when I opened meets.
-The OS automatically changed profiles.
+headsets have different audio profiles and I was using mine in `A2DP` mode.
+If I want to access the device's sink to use as my mic, I have to switch to 
+`HFP`. Now I understand why did my headset's audio quality go down when I 
+opened meets. Some interlaying system automatically changed profiles.*
 - [ ] check how does other platforms do the auto switch on bluetooth profiles.
 - [ ] fix clamshell sway sys binds, broke after the duplicate ubuntu oem drivers
 - [ ] fix sway screenshare on dell to work with windows. curr. only screen works
