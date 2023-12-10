@@ -9,8 +9,8 @@ you.
 Anyways...
 
 ## things to do
-- [ ] move these lists into github projects? I could store the PDE stuff in the
-dotfiles repo's project at least.
+- [ ] *move these lists into github projects? I could store the PDE stuff in the
+dotfiles repo's project at least.*
 
 Might be nice to jump on 
 [Advent of Code 23](https://adventofcode.com/2023/day/1)?
@@ -38,8 +38,8 @@ drivers?
 - [x] fix fugitive `=` on obelisk. ok, so my `=` on the ferris got 
 changed or smth. the other keyboard's `=` works just fine, also `fugitive_>` 
 works just fine. smh.
-- [ ] *fix the `=` char on the ferris*
-- [ ] *fix the `Super+Shift+3(layer1+e)` shortcut on the ferris*
+- [x] fix the `=` char on the ferris
+- [x] fix the `Super+Shift+3(layer1+e)` shortcut on the ferris
 - [ ] diagnostic text fix. the inline runs off screen. auto popup no good, cuz 
 it covers info popup. 
 - [x] fix missing packer. *forgot to require it on init. that is why my auto 
