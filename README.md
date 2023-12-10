@@ -6,7 +6,7 @@ Anyhoo, [dots](https://github.com/distenz/dotfiles)? Provided as is, no guarante
 
 ## things to do
 
-- [x] do the todos to do todos from on a later date
+- [x] do the todos, to do todos from, on a later date
 - [x] move these lists into github projects
 
 All is done then.
